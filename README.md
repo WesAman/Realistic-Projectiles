@@ -78,4 +78,19 @@ conditions. (Sheet 2) on excel doc. To further elaborate. Since we're on an infi
 change in the x direction. Which argues to us that the only thing that we
 can modify in our code would be the initial height only. Therefore in the extension portion of the project I modified the program from Zero as the initial height then "60" as the new initial height. Relevant Imageary Attached as excel sheets + graphs.
 
+**Incorporating Lift**
+7)
+-To incorporate lift into the projectile motion simulation, the lift coefficient (L)[LiftCoefficient] needs to be introduced as a parameter. The lift force acts perpendicular to the direction of the velocity and is proportional to the velocity and the lift coefficient.
+
+-To determine optimal values for lift constants, we can run the simulation for different initial speeds and firing angles and observe the resulting trajectory of the projectile. By comparing the trajectories with and without lift, we can identify the lift coefficients that produce the desired trajectory. **[ X-axis (x-position), Y-axis(y-position) ]**
+
+<img width="555" alt="Screen Shot 2023-04-28 at 8 11 39 PM" src="https://user-images.githubusercontent.com/121915438/235280908-3018d8db-d1c5-415b-9f91-48bac7faaea3.png">
+
+-The lift force occurs due to the shape of the projectile. When the projectile moves through the air, the air flows around it. The shape of the projectile can cause the air to flow more quickly over the top surface than the bottom surface, creating a difference in air pressure that produces lift. This effect is known as Bernoulli's principle.
+
+-The lift force can be used to manipulate the trajectory of the projectile, allowing it to travel farther or higher than it would with only gravity and air resistance acting upon it. However, the lift force can also cause the projectile to become unstable or to deviate from its intended path if not properly accounted for. 
+
+<img width="635" alt="Screen Shot 2023-04-28 at 8 11 50 PM" src="https://user-images.githubusercontent.com/121915438/235280962-6747c6c9-b643-4430-9f3c-23f663477098.png">
+<img width="720" alt="Screen Shot 2023-04-28 at 8 11 11 PM" src="https://user-images.githubusercontent.com/121915438/235281052-4082b538-e6d6-4fea-b4f2-9c50164bb9d8.png">
+
 

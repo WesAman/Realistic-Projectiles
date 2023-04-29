@@ -25,6 +25,8 @@ This project I wanted to address the following with data, generated graphs, and 
 
 6) Firing on a infinite slope in high and low drag situations
 
+7) Affects associated with incorporating lift
+
 
 
 Findings:
